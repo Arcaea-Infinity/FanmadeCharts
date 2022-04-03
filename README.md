@@ -2,10 +2,11 @@
 
 Submit your ✨**brilliant**✨ chart designs for everyone to play!
 
-## Songlists
-| Chart | Designer | PST | PRS | FTR | BYD | 
-| --    | --       | --  | --  | --  | --  |
-|[故郷の星](kokyonohoshi/) | Inari Aimu | - | - | 0 | - |
+## Songlists (slst)
+
+| Chart | Designer | Time | PST | PRS | FTR | BYD | State |
+| --    | --       | --   | --  | --  | --  | --  | --    |
+|[故郷の星が映る海](kokyonohoshi/) | Inari Aimu | 129s | - | - | 7 | - | 🚧 |
 
 ## PRs
 > We only accept the chart designed originally.  

@@ -1,3 +1,43 @@
 {
-  "songs": []
+  "songs": [
+    {
+      "idx": 4,
+        "id": "kokyonohoshi",
+        "title_localized": {
+          "en": "Kokyo no Hoshi ga Utsuru Umi",
+          "ja": "故郷の星が映る海"
+        },
+        "artist": "ZUN",
+        "bpm": "172",
+        "bpm_base": 172,
+        "set": "base",
+        "purchase": "",
+        "audioPreview": 44494,
+        "audioPreviewEnd": 76853,
+        "side": 1,
+        "bg": "",
+        "date": 1648981776,
+        "version": "1.0",
+        "difficulties": [
+          {
+            "ratingClass": 0,
+            "chartDesigner": "InariAimu",
+            "jacketDesigner": "",
+            "rating": 1
+          },
+          {
+            "ratingClass": 1,
+            "chartDesigner": "InariAimu",
+            "jacketDesigner": "",
+            "rating": 4
+          },
+          {
+            "ratingClass": 2,
+            "chartDesigner": "InariAimu",
+            "jacketDesigner": "",
+            "rating": 7
+          }
+        ]
+    }
+  ]
 }
