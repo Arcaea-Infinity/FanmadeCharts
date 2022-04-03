@@ -5,7 +5,7 @@ Submit your ✨**brilliant**✨ chart designs for everyone to play!
 ## Songlists
 | Chart | Designer | PST | PRS | FTR | BYD | 
 | --    | --       | --  | --  | --  | --  |
-|[故郷の星](kokyonohoshi/README.md) | Inari Aimu | - | - | 0 | - |
+|[故郷の星](kokyonohoshi/) | Inari Aimu | - | - | 0 | - |
 
 ## PRs
 > We only accept the chart designed originally.  
