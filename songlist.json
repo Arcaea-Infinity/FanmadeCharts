@@ -1,43 +1,175 @@
 {
-  "songs": [
-    {
-      "idx": 4,
-        "id": "kokyonohoshi",
-        "title_localized": {
-          "en": "Kokyo no Hoshi ga Utsuru Umi",
-          "ja": "故郷の星が映る海"
+    "songs": [
+        {
+            "idx": 0,
+            "id": "kokyonohoshi",
+            "title_localized": {
+                "en": "Kokyo no Hoshi ga Utsuru Umi",
+                "ja": "故郷の星が映る海"
+            },
+            "artist": "ZUN",
+            "bpm": "172",
+            "bpm_base": 172,
+            "set": "base",
+            "purchase": "",
+            "audioPreview": 44494,
+            "audioPreviewEnd": 76853,
+            "side": 1,
+            "bg": "",
+            "date": 1648981776,
+            "version": "1.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "InariAimu",
+                    "jacketDesigner": "",
+                    "rating": 1
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "InariAimu",
+                    "jacketDesigner": "",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "InariAimu",
+                    "jacketDesigner": "",
+                    "rating": 7
+                }
+            ]
         },
-        "artist": "ZUN",
-        "bpm": "172",
-        "bpm_base": 172,
-        "set": "base",
-        "purchase": "",
-        "audioPreview": 44494,
-        "audioPreviewEnd": 76853,
-        "side": 1,
-        "bg": "",
-        "date": 1648981776,
-        "version": "1.0",
-        "difficulties": [
-          {
-            "ratingClass": 0,
-            "chartDesigner": "InariAimu",
-            "jacketDesigner": "",
-            "rating": 1
-          },
-          {
-            "ratingClass": 1,
-            "chartDesigner": "InariAimu",
-            "jacketDesigner": "",
-            "rating": 4
-          },
-          {
-            "ratingClass": 2,
-            "chartDesigner": "InariAimu",
-            "jacketDesigner": "",
-            "rating": 7
-          }
-        ]
-    }
-  ]
+        {
+            "idx": 1,
+            "id": "eiennisakuhana",
+            "title_localized": {
+                "en": "Flowers that Bloom Forever(Short Ver.)",
+                "ja": "永遠に咲く花(Short Ver.)",
+                "zh-Hans": "永遠に咲く花(Short Ver.)",
+                "zh-Hant": "永遠に咲く花(Short Ver.)"
+            },
+            "source_localized": {
+                "en": "The Rainbow Appears After Flowering Rain",
+                "ja": "枯れない世界と終わる花",
+                "zh-Hans": "枯れない世界と終わる花",
+                "zh-Hant": "枯れない世界と終わる花"
+            },
+            "source_copyright": "©Sweet&Tea",
+            "artist": "AiRI",
+            "bpm": "95",
+            "bpm_base": 190,
+            "set": "base",
+            "purchase": "",
+            "audioPreview": 77367,
+            "audioPreviewEnd": 123788,
+            "side": 0,
+            "bg": "single2_light",
+            "remote_dl": false,
+            "world_unlock": false,
+            "version": "1.0",
+            "date": 1649603400,
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "",
+                    "jacketDesigner": "",
+                    "rating": 0
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "",
+                    "jacketDesigner": "",
+                    "rating": 0
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Team 「枯れない花」\n(Misaka_レン vs Kotose_水銀)",
+                    "jacketDesigner": "あめとゆき",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+		{
+			"idx": 2,
+			"id": "panicbounceattack",
+			"title_localized": {
+				"en": "PANIC! BOUNCE!! ATTACK!!!"
+			},
+			"artist": "3R2 feat. ptar124",
+			"bpm": "248",
+			"bpm_base": 248,
+			"set": "base",
+			"purchase": "",
+			"audioPreview": 94798,
+			"audioPreviewEnd": 110250,
+			"side": 0,
+			"bg": "shiawase2",
+			"remote_dl": false,
+			"world_unlock": false,
+			"version": "1.0",
+			"date": 1649603401,
+			"difficulties": [
+				{
+					"ratingClass": 0,
+					"chartDesigner": "",
+					"jacketDesigner": "",
+					"rating": 0
+				},
+				{
+					"ratingClass": 1,
+					"chartDesigner": "",
+					"jacketDesigner": "",
+					"rating": 0
+				},
+				{
+					"ratingClass": 2,
+					"chartDesigner": "Rabi-MisakaChan",
+					"jacketDesigner": "Misaka12456\naffected by\nYumemochi",
+					"rating": 10,
+					"ratingPlus": true
+				}
+			]
+		},
+		{
+			"idx": 3,
+			"id": "gift",
+			"title_localized": {
+				"en": "GIFT"
+			},
+			"artist": "Notorious(Nota & TRIAL)",
+			"bpm": "200",
+			"bpm_base": 200,
+			"set": "base",
+			"purchase": "",
+			"audioPreview": 60926,
+			"audioPreviewEnd": 80126,
+			"side": 0,
+			"bg": "omatsuri_light",
+			"remote_dl": false,
+			"world_unlock": false,
+			"version": "1.0",
+			"date": 1649603402,
+			"difficulties": [
+				{
+					"ratingClass": 0,
+					"chartDesigner": "",
+					"jacketDesigner": "inukoro",
+					"rating": 0
+				},
+				{
+					"ratingClass": 1,
+					"chartDesigner": "",
+					"jacketDesigner": "inukoro",
+					"rating": 0
+				},
+				{
+					"ratingClass": 2,
+					"chartDesigner": "Shiawase(Misaka12456 & 6-47-252)",
+					"jacketDesigner": "inukoro",
+					"rating": 10
+				}
+			]
+		}
+    ]
 }

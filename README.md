@@ -4,11 +4,12 @@ Submit your ✨**brilliant**✨ chart designs for everyone to play!
 
 ## Songlists (slst)
 
-| Chart                          | Designer   | Time | PST | PRS | FTR | BYD | State |
-| ------------------------------ | ---------- | ---- | --- | --- | --- | --- | ----- |
-| [故郷の星が映る海](kokyonohoshi/) | Inari Aimu | 129s | -   | -   | 7   | -   | 🚧    |
-| [永遠に咲く花(Short Ver.)](eiennisakuhana/) | Misaka12456 | 136s | -   | -   | 9+   |  -   | ✔️    |
-| [PANIC!BOUNCE!!ATTACK!!!](panicbounceattack/) | Misaka12456 | 120s | -   | -   | 10+   |  -   | ✔️    |
+| Chart                                      | Designer    | Time | PST | PRS | FTR | BYD | State |
+| ------------------------------------------ | ----------- | ---- | --- | --- | --- | --- | ----- |
+| [故郷の星が映る海](kokyonohoshi/)             | Inari Aimu  | 129s | -   | -   | 7   | -   | 🚧    |
+| [永遠に咲く花(Short Ver.)](eiennisakuhana/)   | Misaka12456 | 136s | -   | -   | 9+  | -   | ✔️  |
+| [PANIC!BOUNCE!!ATTACK!!!](panicbounceattack/) | Misaka12456 | 120s | -   | -   | 10+ | -   | ✔️  |
+| [GIFT](gift/) | Misaka12456 | 146s | -   | -   | 10  | -   | ✔️  |
 
 ## PRs
 
