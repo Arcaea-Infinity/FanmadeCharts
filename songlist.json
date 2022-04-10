@@ -280,7 +280,7 @@
 			"artist": "Massive New Krew feat.私(CV悠木碧)",
 			"bpm": "190",
 			"bpm_base": 190,
-			"set": "",
+			"set": "base",
 			"purchase": "",
 			"audioPreview": 7843,
 			"audioPreviewEnd": 17949,
@@ -309,6 +309,62 @@
 					"jacketDesigner": "",
 					"rating": 9,
 					"ratingPlus": true
+				}
+			]
+		},
+		{
+			"idx": 7,
+			"id": "petitbonheur",
+			"title_localized": {
+				"en": "petit bonheur(Short Ver.)"
+			},
+			"source_localized": {
+				"en": "Recette",
+				"ja": "あなたに恋する恋愛ルセット",
+				"zh-Hans": "あなたに恋する恋愛ルセット",
+				"zh-Hant": "あなたに恋する恋愛ルセット",
+				"kr": "Recette"
+			},
+			"source_copyright": "©ユニゾンシフト",
+			"artist": "Meis Clauson feat.yuiko",
+			"bpm": "180",
+			"bpm_base": 180,
+			"set": "base",
+			"purchase": "",
+			"audioPreview": 60681,
+			"audioPreviewEnd": 87983,
+			"side": 0,
+			"bg": "shiawase",
+			"remote_dl": true,
+			"world_unlock": false,
+			"version": "1.1",
+			"date": 1649603406,
+			"difficulties": [
+				{
+					"ratingClass": 0,
+					"chartDesigner": "",
+					"jacketDesigner": "ThruTheLovelyLine",
+					"rating": 0
+				},
+				{
+					"ratingClass": 1,
+					"chartDesigner": "",
+					"jacketDesigner": "ThruTheLovelyLine",
+					"rating": 0
+				},
+				{
+					"ratingClass": 2,
+					"chartDesigner": "",
+					"jacketDesigner": "ThruTheLovelyLine",
+					"rating": 0
+				},
+				{
+					"ratingClass": 3,
+					"chartDesigner": "Team Delight\n(Misaka Haruma vs Mizutani Miel)",
+					"jacketDesigner": "ThruTheLovelyLine",
+					"rating": 9,
+					"jacketOverride": true,
+					"bg": "shiawase2"
 				}
 			]
 		}
