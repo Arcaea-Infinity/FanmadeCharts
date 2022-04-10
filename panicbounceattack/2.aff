@@ -1145,4 +1145,3 @@ arc(118064,119032,0.50,1.25,siso,1.00,0.50,1,none,false);
 arc(118064,119032,0.50,-0.25,siso,1.00,0.50,0,none,false);
 arc(119032,120000,-0.25,0.25,sosi,0.50,0.00,0,none,false);
 arc(119032,120000,1.25,0.75,sosi,0.50,0.00,1,none,false);
-scenecontrol(0,bgahide);

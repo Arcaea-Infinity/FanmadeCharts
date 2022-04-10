@@ -220,6 +220,96 @@
 					"rating": 0
 				}
 			]
+		},
+		{
+			"idx": 5,
+			"id": "pushaplucka",
+			"title_localized": {
+				"en": "Pusha Plucka!!"
+			},
+			"artist": "GNMD",
+			"bpm": "126",
+			"bpm_base": 126,
+			"set": "base",
+			"purchase": "",
+			"audioPreview": 37500,
+			"audioPreviewEnd": 69768,
+			"side": 0,
+			"bg": "zettai_light",
+			"remote_dl": false,
+			"world_unlock": false,
+			"version": "1.0",
+			"date": 1649603404,
+			"difficulties": [
+				{
+					"ratingClass": 0,
+					"chartDesigner": "",
+					"jacketDesigner": "",
+					"rating": 0
+				},
+				{
+					"ratingClass": 1,
+					"chartDesigner": "",
+					"jacketDesigner": "",
+					"rating": 0
+				},
+				{
+					"ratingClass": 2,
+					"chartDesigner": "Mizutani Kana: True dumb",
+					"jacketDesigner": "Mizutani Kana: True idiot",
+					"rating": 9,
+					"ratingPlus": true
+				}
+			]
+		},
+		{
+			"idx": 6,
+			"id": "ganbarekumokosan",
+			"title_localized": {
+				"en": "Go For It! The Theme Song of Spider-Chan (TV Size)",
+				"ja": "がんばれ! 蜘蛛子さんのテーマ(TV Size)",
+				"zh-Hans": "がんばれ! 蜘蛛子さんのテーマ(TV Size)",
+				"zh-Hant": "がんばれ! 蜘蛛子さんのテーマ(TV Size)"
+			},
+			"source_localized": {
+				"en": "So I'm a Spider, So What?",
+				"ja": "蜘蛛ですが、なにか？",
+				"zh-Hans": "转生成蜘蛛又怎样！",
+				"zh-Hant": "转生成蜘蛛又怎样！"
+			},
+			"artist": "Massive New Krew feat.私(CV悠木碧)",
+			"bpm": "190",
+			"bpm_base": 190,
+			"set": "",
+			"purchase": "",
+			"audioPreview": 7843,
+			"audioPreviewEnd": 17949,
+			"side": 0,
+			"bg": "musedash_light",
+			"remote_dl": false,
+			"world_unlock": false,
+			"version": "1.0",
+			"date": 1649603405,
+			"difficulties": [
+				{
+					"ratingClass": 0,
+					"chartDesigner": "",
+					"jacketDesigner": "",
+					"rating": 0
+				},
+				{
+					"ratingClass": 1,
+					"chartDesigner": "",
+					"jacketDesigner": "",
+					"rating": 0
+				},
+				{
+					"ratingClass": 2,
+					"chartDesigner": "私「Misakaクモコさん」\nagainst\n管理者D「M.Y.L.N.S.」",
+					"jacketDesigner": "",
+					"rating": 10
+				}
+			]
 		}
     ]
 }

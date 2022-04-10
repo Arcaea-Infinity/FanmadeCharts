@@ -1288,4 +1288,3 @@ timinggroup(){
   arc(106950,107025,1.00,1.00,s,1.00,1.00,1,none,true);
   arc(107025,107100,1.00,1.00,s,1.00,1.00,1,none,false);
 };
-scenecontrol(-1226,bgahide);
