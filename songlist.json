@@ -367,6 +367,54 @@
 					"bg": "shiawase2"
 				}
 			]
+		},
+		{
+			"idx": 8,
+			"id": "tlrpone",
+			"title_localized": {
+				"en": "1/16 Toriru Practice Set.1"
+			},
+			"source_localized": {
+				"en": "1/16 Toriru Practice Set.1",
+				"ja": "1/16 トリル練習 Set.1",
+				"zh-Hans": "1/16 交互练习 Set.1",
+				"zh-Hant": "1/16 交互練習 Set.1",
+				"kr": "1/16 Toriru Practice Set.1"
+			},
+			"artist": "Inari Aimu",
+			"bpm": "150-240",
+			"bpm_base": 150,
+			"set": "base",
+			"purchase": "",
+			"audioPreview": 160667,
+			"audioPreviewEnd": 179212,
+			"side": 1,
+			"bg": "vs_conflict",
+			"remote_dl": true,
+			"world_unlock": false,
+			"version": "1.1",
+			"date": 1649959163,
+			"difficulties": [
+				{
+					"ratingClass": 0,
+					"chartDesigner": "Inari Aimu",
+					"jacketDesigner": "Inari Aimu",
+					"rating": 0
+				},
+				{
+					"ratingClass": 1,
+					"chartDesigner": "Inari Aimu",
+					"jacketDesigner": "Inari Aimu",
+					"rating": 0
+				},
+				{
+					"ratingClass": 2,
+					"chartDesigner": "Inari Aimu",
+					"jacketDesigner": "Inari Aimu",
+					"rating": 9,
+					"ratingPlus": true
+				}
+			]
 		}
     ]
 }
