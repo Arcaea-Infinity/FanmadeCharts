@@ -14,6 +14,7 @@ Submit your ✨**brilliant**✨ chart designs for everyone to play!
 | [Pusha Plucka!!](pushaplucka/)                             | Misaka12456 as Mizutani Kana | 149s | -   | -   | 9+  | -   | ✔️  |
 | [がんばれ! 蜘蛛子さんのテーマ(TV Size)](ganbarekumokosan/) | Misaka12456                  | 88s  | -   | -   | 9+  | -   | ✔️  |
 | [petit bonheur(Short Ver.)](petitbonheur/)              | Misaka12456                  | 115s | -   | -   | -   | 9   | ✔️  |
+| [1/16 Toriru Practice Set.1](tlrpone/)              | Inari Aimu                  | 214s | -   | -   | 9+   | -   | ✔️  |
 
 ## PRs
 
