@@ -415,6 +415,43 @@
 					"ratingPlus": true
 				}
 			]
+		},
+	        {
+    			"id": "tanaka",
+    			"title_localized": {
+      				"en": "Tanaka",
+      				"ja": "田中"
+    			},
+    			"artist": "立秋 feat.ちょこ",
+    			"bpm": "186",
+    			"bpm_base": 186,
+    			"set": "single",
+    			"purchase": "",
+    			"audioPreview": 16937,
+    			"audioPreviewEnd": 26578,
+    			"side": 0,
+    			"bg": "nijuusei-light-b",
+    			"date": 1638800712,
+    			"difficulties": [
+				{
+					"ratingClass": 0,
+					"chartDesigner": "no.4↑1 J.R",
+					"jacketDesigner": "石王マサト",
+					"rating": 0
+				},
+				{
+					"ratingClass": 1,
+					"chartDesigner": "no.4↑1 J.R",
+					"jacketDesigner": "石王マサト",
+					"rating": 0
+				},
+      				{
+        				"ratingClass": 2,
+        				"chartDesigner": "no.4↑1 J.R",
+       				    	"jacketDesigner": "石王マサト",
+        				"rating": 10
+      				}
+    			]
 		}
     ]
 }
