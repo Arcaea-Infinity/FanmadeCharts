@@ -15,6 +15,7 @@ Submit your ✨**brilliant**✨ chart designs for everyone to play!
 |  | [がんばれ! 蜘蛛子さんのテーマ(TV Size)](ganbarekumokosan/) | Misaka12456                  | 88s  | -   | -   | 9+  | -   |
 |  | [petit bonheur(Short Ver.)](petitbonheur/)              | Misaka12456                  | 115s | -   | -   | -   | 9   |
 | ![tlrpone](tlrpone/base_256.jpg) | [1/16 Toriru Practice Set.1](tlrpone/)              | Inari Aimu                  | 214s | -   | -   | 9+   | -   |
+| ![田中](tanaka/base_256.jpg)| [田中](tanaka/) | J.R | 135s | - | - | 10 | - |
 
 ## PRs
 
